@@ -1,4 +1,4 @@
-# Excel–Python–VBA Automation: Retail Financial Processing Tool
+# Excel–Python–VBA Automation: Retail Stores Revenue
 
 ## Overview
 This project demonstrates the integration of Excel, Python, and VBA to automate financial data processing. Instead of performing manual calculations in Excel, a VBA macro triggers a Python script using xlwings, which processes financial data and writes computed results back into Excel automatically.
@@ -7,7 +7,7 @@ This project demonstrates the integration of Excel, Python, and VBA to automate 
 Retail businesses often require repetitive financial analysis, including:
 
 - Calculating Gross Profit
-- Estimating Tax Liability
+- Estimating Tax Payments
 - Computing Net Profit
 
 Such calculations become inefficient and error-prone when done manually, especially across multiple records.  
